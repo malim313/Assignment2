@@ -1,4 +1,6 @@
 # Assignment 2
+# Reference: Course content and practicals uploaded on brightspace.
+
 ### Step 0 - Load packages
 library(stringr)
 
